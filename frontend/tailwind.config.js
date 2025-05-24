@@ -9,7 +9,6 @@ export default {
   theme: {
     extend: {},
   },
-  // eslint-disable-next-line no-undef
   plugins: [require("daisyui")], //daisyUi ke plugin ko import kiya gya hai
 }
 
